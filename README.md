@@ -2,3 +2,5 @@ Primero he empezado con la cabecera, poco a poco hasta darle el formato que tien
 Y por último, el footer que mas o menos tiene el mismo estilo que el header.
 
 He modificado el css y he incluido el css para la parte B. He incluido el responsive.
+
+He vuelto a modificar el archivo CSS y he incluido la parte C puesta en la Moodle.
